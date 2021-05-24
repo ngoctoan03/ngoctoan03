@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Nguyễn Võ Ngọc Toàn
+- 👋 Hi, I’m Nguyễn Võ Ngọc Toàn.
 - 👀 I’m interested in people around me.
-- 🌱 I’m currently learning FPT POLYTECHNIC 
+- 🌱 I’m currently learning FPT POLYTECHNIC.
+- 🔎 always looking for new things about technology.
 - 📫 How to reach me hotline 0359.759.659
 
 <!---
