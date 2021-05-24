@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ngoctoan03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning FPT POLYTECHNIC
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nguyễn Võ Ngọc Toàn
+- 👀 I’m interested in people around me.
+- 🌱 I’m currently learning FPT POLYTECHNIC 
+- 📫 How to reach me hotline 0359.759.659
 
 <!---
 ngoctoan03/ngoctoan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
